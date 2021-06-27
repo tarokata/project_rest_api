@@ -4,7 +4,7 @@ Simple Restful API created with NodeJS and ExpressJS framework.
 ### Table of Contents:
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Project's aim](#problems)
+* [Project's Aims](#project's-aims)
 
 ### General Info: 
 This is a fake API, you can use whenever you need some data.
