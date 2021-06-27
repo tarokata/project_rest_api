@@ -1,0 +1,42 @@
+# Get all the users
+GET http://localhost:8080/users
+
+###
+
+# Get one user
+GET http://localhost:8080/users/1
+
+### 
+
+# Create new user
+POST http://localhost:8080/users
+Content-Type: : application/json
+
+{
+    "userId": 19,
+    "firstName": "Dani",
+    "lastName": "Appleseed",
+    "career": "Doctor"
+}
+
+###
+
+# Update new user
+PUT http://localhost:8080/users
+Content-Type: application/json
+
+{
+    "userId": 1,
+    "firstName": "Thomas",
+    "lastName": "Thor",
+    "career": "Actress"
+}
+
+###
+
+# Delete one user 
+DELETE http://localhost:8080/users/1
+
+
+
+

@@ -1,0 +1,50 @@
+[
+    {
+        "userId": 1,
+        "firstName": "John",
+        "lastName": "Appleseed",
+        "career": "Doctor"
+    },
+    {
+        "userId": 2,
+        "firstName": "Joan",
+        "lastName": "Canabrava",
+        "career": "Engineer"
+    },
+    {
+        "userId": 3,
+        "firstName": "Patrick",
+        "lastName": "Grapeseed",
+        "career": "Accountant"
+    },
+    {
+        "userId": 4,
+        "firstName": "Xingling",
+        "lastName": "PingPong",
+        "career": "Teacher"
+    },
+    {
+        "userId": "5",
+        "firstName": "John",
+        "lastName": "Doe",
+        "career": "Actor"
+    },
+    {
+        "userId": "6",
+        "firstName": "Bray",
+        "lastName": "Green",
+        "career": "Gangster"
+    },
+    {
+        "userId": 7,
+        "firstName": "John",
+        "lastName": "Appleseed",
+        "career": "Doctor"
+    },
+    {
+        "userId": 8,
+        "firstName": "John",
+        "lastName": "Appleseed",
+        "career": "Doctor"
+    }
+]
